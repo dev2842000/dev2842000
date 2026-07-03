@@ -1,150 +1,150 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dev%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Engineer%20%7C%20Fintech%20%7C%204%2B%20Years&descAlignY=52&descAlign=50" width="100%"/>
+<!-- Neon cyberpunk header -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:7b2ff7,60:f107a3,100:00d9ff&height=200&section=header&text=Dev%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45&stroke=00d9ff&strokeWidth=2&desc=full-stack%20%E2%9A%A1%20fintech%20%E2%9A%A1%204%2B%20yrs&descSize=20&descAlignY=68&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=650&height=100&lines=Full-stack+engineer+with+4%2B+years+in+fintech+%F0%9F%9A%80;Payments+%7C+Onboarding+%7C+AI-powered+tooling+%E2%9C%A8;Building+products+users+actually+rely+on+%F0%9F%94%A5)](https://git.io/typing-svg)
+<!-- Glitch-style social row -->
+<p>
+  <a href="https://github.com/dev2842000"><img src="https://img.shields.io/badge/-%40dev2842000-7b2ff7?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/devkumar2842"><img src="https://img.shields.io/badge/-LinkedIn-f107a3?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://devk-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-00d9ff?style=flat-square&logo=vercel&logoColor=black"/></a>
+  <a href="mailto:dev69440@gmail.com"><img src="https://img.shields.io/badge/-Email-ff6b6b?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=dev2842000&label=views&color=7b2ff7&style=flat-square"/>
+</p>
 
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=dev2842000&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/dev2842000)
-[![GitHub followers](https://img.shields.io/github/followers/dev2842000?label=Followers&style=social)](https://github.com/dev2842000)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/devkumar2842)
+<!-- Typing SVG with Gen-Z energy -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2500&pause=800&color=00D9FF&background=00000000&center=true&vCenter=true&multiline=false&width=600&lines=hey+i+build+stuff+that+ships+%F0%9F%9A%80;full-stack+engineer+%40+crobo;typescript+%2B+react+%2B+node+%2B+vibe+%E2%9C%A8;50k%2B+users+touched+my+code+%F0%9F%AB%A3;currently%3A+open+to+new+roles+%F0%9F%91%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+## 🧠 who am i
 
-> I help companies build products that users actually rely on — across the full stack, from frontend to backend to the data layer. At Crobo, a remittance platform with 50,000+ customers, I've built core product features end-to-end: a referral system, attribution integrations (AppsFlyer, Google Ads), and an AI-powered automated code review system that runs on every PR. I'm looking for a role where I can bring that same end-to-end ownership to a team with a higher engineering bar.
+> I help companies build products that users actually rely on — across the full stack, from frontend to backend to the data layer. At Crobo, a remittance platform with 50,000+ customers, I've built core product features end-to-end: a referral system, attribution integrations (AppsFlyer, Google Ads), and an AI-powered automated code review system that runs on every PR. Looking for a role where I can bring that same end-to-end ownership to a team with a higher engineering bar.
 
-```javascript
+```typescript
 const dev = {
-  name: "Dev Kumar",
-  location: "Delhi, India 📍",
-  pronouns: "he/him",
-  experience: "4+ years",
-  domain: "Fintech (Payments, Onboarding, Attribution)",
-  skills: ["React.js", "Next.js", "Node.js", "TypeScript", "PostgreSQL", "GraphQL"],
-  currentRole: "SDE-I @ Crobo (GetBit Technologies)",
-  email: "dev69440@gmail.com",
-  portfolio: "https://devk-portfolio.netlify.app/",
+  name     : "Dev Kumar",
+  based    : "Delhi 🇮🇳",
+  currently: "SDE-I @ Crobo — remittance fintech",
+  stack    : ["TypeScript", "React", "Node.js", "PostgreSQL", "GraphQL"],
+  domain   : "fintech · payments · onboarding · attribution",
+  open_to  : "senior / mid roles w/ real eng culture 👀",
+  fun_fact : "shipped a referral system to 50k+ users and still sleep fine",
 };
 ```
 
 ---
 
-## 💼 Experience
+## 💼 where i've worked
 
-### 🏢 Crobo (GetBit Technologies) — SDE-I
-**Remote | Mar 2025 – Present**
-- Built end-to-end **Referral Program** redesign (full-stack) with milestone-based reward tracking, driving **40% growth** in referral-attributed transactions
-- Integrated **AppsFlyer** deep-linking for attribution tracking, enabling accurate campaign-to-conversion measurement across mobile flows
-- Implemented **Google Ads GCLID tracking** in TypeScript, closing the attribution gap between paid campaigns and in-app conversions
-- Built production-ready AI tooling and internal automation features serving **50,000+ customers**
+<table>
+<tr>
+<td><b>🏦 Crobo (GetBit)</b></td>
+<td>SDE-I · Remote · Mar 2025 – now</td>
+</tr>
+</table>
 
-### 🏢 Flot Pvt. Ltd — SDE
-**Delhi | Nov 2024 – Mar 2025** *(Early-stage consumer lending startup)*
-- Built end-to-end **user onboarding flow** with automated KYC validation (Aadhaar + PAN), reducing customer drop-off by **15–20%**
-- Implemented **route locking** to enforce onboarding flow integrity, preventing users from skipping the loan application sequence
-- Built **operational dashboards** for loan tracking and workflow management, actively used by 15–20 internal team members
+- built the **Referral Program** end-to-end → **+40% referral transactions** 📈
+- integrated **AppsFlyer** deep-linking for campaign-to-conversion attribution
+- shipped **Google Ads GCLID tracking** in TypeScript — closed the attribution gap
+- built AI tooling & automation for **50,000+ customers**
 
-### 🏢 Hestabit Technologies Pvt. Ltd. — Trainee Software Developer
-**Noida | Aug 2022 – Apr 2024**
-- Built and deployed **OvaTime**, a React Native sports/fitness app with workout logging and session tracking, end-to-end from client requirements to production
-- Migrated **Top Companion** to Gatsby.js with SSR, improving page load performance and SEO for a high-traffic content platform
-- Diagnosed and resolved **50+ production bugs** across client applications in a fast-paced agency environment
+<table>
+<tr>
+<td><b>💳 Flot Pvt. Ltd</b></td>
+<td>SDE · Delhi · Nov 2024 – Mar 2025</td>
+</tr>
+</table>
 
-### 🏢 Code Planet Technologies Pvt. Ltd. — Software Engineering Intern
-**Remote | Nov 2021 – Jul 2022**
-- Optimized Python automation scripts, improving execution efficiency by **30%** and reducing processing time for routine tasks
-- Managed and optimized **MySQL databases** with 10,000+ records, writing efficient queries to support reporting and data pipelines
+- built KYC onboarding (Aadhaar + PAN) → **–15–20% drop-off** 🎯
+- added **route locking** so users can't break the loan application flow
+- shipped internal ops dashboards used daily by 15–20 team members
+
+<table>
+<tr>
+<td><b>🏗️ Hestabit Technologies</b></td>
+<td>Trainee SWE · Noida · Aug 2022 – Apr 2024</td>
+</tr>
+</table>
+
+- shipped **OvaTime** (React Native) from zero → App Store end-to-end
+- migrated **Top Companion** to Gatsby SSR — better perf & SEO
+- squashed **50+ production bugs** across client projects
+
+<table>
+<tr>
+<td><b>⚙️ Code Planet Technologies</b></td>
+<td>Intern · Remote · Nov 2021 – Jul 2022</td>
+</tr>
+</table>
+
+- optimized Python scripts → **+30% execution speed** ⚡
+- maintained MySQL DBs with 10k+ records, wrote reporting queries
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ my stack
 
 <div align="center">
 
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-7b2ff7?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f107a3?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-00d9ff?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Tools & Infra
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### Platforms & Analytics
-![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=for-the-badge&logo=mixpanel&logoColor=white)
-![AppsFlyer](https://img.shields.io/badge/AppsFlyer-00B2FF?style=for-the-badge&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-7b2ff7?style=for-the-badge&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-f107a3?style=for-the-badge&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00d9ff?style=for-the-badge&logo=postgresql&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-7b2ff7?style=for-the-badge&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/Python-f107a3?style=for-the-badge&logo=python&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-00d9ff?style=for-the-badge&logo=redis&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-7b2ff7?style=for-the-badge&logo=mongodb&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Actions-f107a3?style=for-the-badge&logo=github-actions&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-00d9ff?style=for-the-badge&logo=tailwind-css&logoColor=black)
+![Gatsby](https://img.shields.io/badge/Gatsby-7b2ff7?style=for-the-badge&logo=gatsby&logoColor=white)
+![AppsFlyer](https://img.shields.io/badge/AppsFlyer-f107a3?style=for-the-badge&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-00d9ff?style=for-the-badge&logo=snowflake&logoColor=black)
 
 </div>
 
 ---
 
-## 🎯 Featured Projects
+## 🎯 things i've shipped
 
 <div align="center">
 
-### 🤖 Multi-Agent PR Reviewer
-[![Repo](https://img.shields.io/badge/GitHub-multi--agent--pr--reviewer-181717?style=for-the-badge&logo=github)](https://github.com/dev2842000/multi-agent-pr-reviewer)
+### 🤖 multi-agent pr reviewer
+[![](https://img.shields.io/badge/view_on_github-7b2ff7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev2842000/multi-agent-pr-reviewer)
 
-4 parallel AI agents (Security, Performance, Style, Tests) that auto-review every PR via GitHub Actions. Built with Vercel AI SDK + Claude API, with per-agent model config and automatic provider fallback.
-
-```
-Stack: TypeScript · Vercel AI SDK · Claude API · GitHub Actions
-```
-
-### 🛡️ BlurShield
-[![Repo](https://img.shields.io/badge/GitHub-blurshield-181717?style=for-the-badge&logo=github)](https://github.com/dev2842000/blurshield)
-
-Chrome extension (MV3) that auto-blurs sensitive sites the instant screen sharing starts. Patches MediaDevices.prototype.getDisplayMedia to intercept signals without service worker dependency.
+4 AI agents (security · perf · style · tests) run in parallel on every PR via GitHub Actions  
+built w/ Vercel AI SDK + Claude API · per-agent model config · automatic provider fallback
 
 ```
-Stack: JavaScript · Chrome Extension MV3 · Web APIs
+TypeScript · Vercel AI SDK · Claude API · GitHub Actions
+```
+
+### 🛡️ blurshield
+[![](https://img.shields.io/badge/view_on_github-f107a3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev2842000/blurshield)
+
+chrome extension (MV3) that auto-blurs sensitive tabs the instant screen share starts  
+patches `MediaDevices.prototype.getDisplayMedia` — no service worker needed
+
+```
+JavaScript · Chrome Extension MV3 · Web APIs
 ```
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 numbers
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev2842000&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev2842000&theme=tokyonight&hide_border=true&stroke=7b2ff7&ring=f107a3&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=7b2ff7)](https://git.io/streak-stats)
 
-</div>
-
-<div align="center">
-
-[![Dev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev2842000&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devk-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devkumar2842)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev69440@gmail.com)
-[![Codolio](https://img.shields.io/badge/Codolio-4CAF50?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/kOQURgep)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dev2842000&theme=tokyo-night&hide_border=true&line=7b2ff7&point=f107a3&area=true&area_color=7b2ff7)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -152,6 +152,8 @@ Stack: JavaScript · Chrome Extension MV3 · Web APIs
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00d9ff,50:f107a3,100:7b2ff7&height=120&section=footer&reversal=true" width="100%"/>
+
+*open to work · let's build something real*
 
 </div>
