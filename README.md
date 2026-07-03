@@ -125,30 +125,9 @@ Stack: JavaScript · Chrome Extension MV3 · Web APIs
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev2842000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev2842000&layout=compact&langs_count=8&theme=tokyonight"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev2842000&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 </div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev2842000&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dev2842000&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
 
 <div align="center">
 
