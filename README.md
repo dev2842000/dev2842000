@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Neon cyberpunk header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:7b2ff7,60:f107a3,100:00d9ff&height=200&section=header&text=Dev%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=45&stroke=00d9ff&strokeWidth=2&desc=full-stack%20%E2%9A%A1%20fintech%20%E2%9A%A1%204%2B%20yrs&descSize=20&descAlignY=68&descAlign=50" width="100%"/>
+<!-- neon header — sharp rect with cyberpunk gradient -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0221,40:7b2ff7,70:f107a3,100:00d9ff&height=160&section=header&text=Dev%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=%E2%9A%A1%20full-stack%20%C2%B7%20fintech%20%C2%B7%204%2B%20yrs&descSize=18&descAlignY=80&descAlign=50" width="100%"/>
 
-<!-- Glitch-style social row -->
+<!-- social badges -->
 <p>
   <a href="https://github.com/dev2842000"><img src="https://img.shields.io/badge/-%40dev2842000-7b2ff7?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://linkedin.com/in/devkumar2842"><img src="https://img.shields.io/badge/-LinkedIn-f107a3?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=dev2842000&label=views&color=7b2ff7&style=flat-square"/>
 </p>
 
-<!-- Typing SVG with Gen-Z energy -->
+<!-- typing SVG — space grotesk, Gen-Z copy -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=2500&pause=800&color=00D9FF&background=00000000&center=true&vCenter=true&multiline=false&width=600&lines=hey+i+build+stuff+that+ships+%F0%9F%9A%80;full-stack+engineer+%40+crobo;typescript+%2B+react+%2B+node+%2B+vibe+%E2%9C%A8;50k%2B+users+touched+my+code+%F0%9F%AB%A3;currently%3A+open+to+new+roles+%F0%9F%91%80)](https://git.io/typing-svg)
 
 </div>
@@ -152,8 +152,6 @@ JavaScript · Chrome Extension MV3 · Web APIs
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00d9ff,50:f107a3,100:7b2ff7&height=120&section=footer&reversal=true" width="100%"/>
-
-*open to work · let's build something real*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9ff,50:f107a3,100:7b2ff7&height=60&section=footer&fontSize=14&fontColor=ffffff&text=open%20to%20work%20%C2%B7%20let%27s%20build%20something%20real%20%E2%9A%A1" width="100%"/>
 
 </div>
